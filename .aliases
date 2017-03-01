@@ -1,0 +1,5 @@
+# List files
+alias ll='ls -lah'
+
+# Simple Python Server
+alias SimplePythonServer='python -m SimpleHTTPServer'
